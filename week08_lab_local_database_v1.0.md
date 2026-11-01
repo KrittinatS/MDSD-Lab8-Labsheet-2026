@@ -120,6 +120,7 @@ class AiDraftListings extends Table {
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
+<img width="1000" height="577" alt="image" src="https://github.com/user-attachments/assets/9a95a7b7-7f36-4e5a-9e44-ff980d8a6ed3" />
 
 ---
 
